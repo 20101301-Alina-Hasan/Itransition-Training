@@ -1,4 +1,4 @@
-# TASK #3 SUBMISSION
+### TASK #3
 
 **Name:** Alina Hasan
 
