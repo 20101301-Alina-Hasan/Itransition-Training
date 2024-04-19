@@ -1,2 +1,7 @@
 # Itransition-Training
-Public Repository for Training under Itransition (Group: Ruby)
+Public Repository for Training under Itransition 
+
+# **Name:** Alina Hasan
+# **Group:** Ruby
+
+
