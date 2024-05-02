@@ -5,8 +5,8 @@ Public Repository for Training under Itransition
  
  **Group:** Ruby | **Language: *EN***
 
-**TASK03:** *Completed using Python*
-
+**TASK03** 
 Video Demonstration: https://youtu.be/MpNL7isfGTs?feature=shared 
 
+*Completed using Python*
 
