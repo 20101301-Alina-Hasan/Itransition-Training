@@ -58,7 +58,7 @@ You win!
 HMAC key: BD9BE48334BB9C5EC263953DA54727F707E95544739FCE7359C267E734E380A2
 ```
 
-To submit the solution  you need to send to **p.lebedev@itransition.com**:
+To submit the solution  you need to send:
 1. link to a video demonstrating launch with 3 and 7 parameters, launch with incorrect parameters (repeated or even number, one or no),
 help table generation (on 5 parameters), choice of the user move, output of results;
 2. link to Github public repository.
