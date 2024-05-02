@@ -151,5 +151,8 @@ fact that the computer move with the key give together exactly the same HMAC tha
 3. You may generate a link at the end to some online service that allows HMAC calculation to simplify the "check" for the user,
 but it's not required.
 
+Sometimes words aren't enough, so here is an illustration for the TASK #3. For the moves A B C D E F G — who is losing to whom.
+![Win-Lose Illustration](illustration.png)
+
 
 
