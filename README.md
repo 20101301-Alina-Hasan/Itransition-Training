@@ -8,7 +8,7 @@ Public Repository for Training under Itransition
 **TASK03** 
 Video Demonstration: 
 
-* ![https://youtu.be/MpNL7isfGTs?feature=shared](YouTube)
+* YouTube: https://youtu.be/MpNL7isfGTs?feature=shared
 
 * Google Drive: https://drive.google.com/file/d/1VKmiJmF_MywjWmoOePrcbz3ZvQTXRxbc/view?usp=sharing 
 
