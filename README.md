@@ -6,7 +6,7 @@ Public Repository for Training under Itransition
  
  **Group:** Ruby | **Language: *EN***
 
-**TASK03** 
+**Rock-Ppaper-Scissors** 
 Video Demonstration: 
 
 * YouTube: https://youtu.be/MpNL7isfGTs?feature=shared
