@@ -1,4 +1,5 @@
-# Itransition Training | TASK03
+# A Game of Rock-Paper-Scissors
+## Itransition Training | TASK03
 Public Repository for Training under Itransition 
 
  **Name:** Alina Hasan
